@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+10/23/17
 
 ### Student Name:  
-(First and Last Name)
+Zachary Greene
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We have created an image gallery of car on a rotating, circular slide of pictures.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://zmg14.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I've learned how to clone CSS values and create new values.
+2. Used the clonenode() method to duplicate a node.
+3. Combined an image, figure node and document fragment to the DOM tree. 
